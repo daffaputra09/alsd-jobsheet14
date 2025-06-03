@@ -7,7 +7,7 @@ public class BinaryTreeArrayMain06 {
         Mahasiswa06 mhs3 = new Mahasiswa06("24416221", "Badar", "B", 3.75);
         Mahasiswa06 mhs4 = new Mahasiswa06("24416220", "Dewi", "B", 3.35);
         
-        Mahasiswa06 mhs5 = new Mahasiswa06("24416131", "Dewi", "A", 3.48);
+        Mahasiswa06 mhs5 = new Mahasiswa06("24416131", "Devi", "A", 3.48);
         Mahasiswa06 mhs6 = new Mahasiswa06("24416205", "Ehsan", "D", 3.61);
         Mahasiswa06 mhs7 = new Mahasiswa06("24416170", "Fizi", "B", 3.86);
         
