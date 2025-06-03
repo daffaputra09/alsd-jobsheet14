@@ -19,7 +19,7 @@ public class BinaryTreeMain06 {
         hasilCari = bst.find(3.22) ? "Ditemukan" : "Tidak ditemukan";
         System.out.println(hasilCari);
         
-        bst.add(new Mahasiswa06("24416131", "Dewi", "A", 3.72));
+        bst.add(new Mahasiswa06("24416131", "Devi", "A", 3.72));
         bst.add(new Mahasiswa06("24416205", "Ehsan", "D", 3.37));
         bst.add(new Mahasiswa06("24416170", "Fizi", "B", 3.46));
         System.out.println("\nDaftar semua mahasiswa setelah penambahan 3 mahasiswa:");
